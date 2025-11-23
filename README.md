@@ -83,7 +83,7 @@ Enter the corresponding number to perform an action.
 
 
 
-****inish Report
+****Finish Report
 
 The Student Grade Management System successfully demonstrates how to manage structured data using a Python dictionary. Through a simple and interactive menu-driven design, the program covers essential programming concepts and provides hands-on experience in building console applications.
 
@@ -99,3 +99,27 @@ Handling user input inside loops
 
 
 The project is ideal for beginners who want to strengthen their Python fundamentals and get familiar with real-world program flow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
