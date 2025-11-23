@@ -100,6 +100,13 @@ Handling user input inside loops
 
 The project is ideal for beginners who want to strengthen their Python fundamentals and get familiar with real-world program flow.
 
+<img width="1920" height="1200" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/f5e12c63-b714-4ba7-a8ce-e93fd7837505" />
+<img width="1920" height="1200" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/f71b26f4-a86d-4f7a-83a3-cdb4c65321bb" />
+<img width="1920" height="1200" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/202d45be-50be-4c7c-a865-c2bfd1be8e87" />
+<img width="1920" height="1200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/18aa8eca-bb04-4346-a2fd-420135401b53" />
+<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/6e56911e-6f01-40de-a114-3864abbb09fa" />
+<img width="1920" height="1200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/18a83dbc-a5d9-4d35-9aba-b655a2779c7e" />
+
 
 
 
